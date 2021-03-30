@@ -1,2 +1,3 @@
 # GitHub-Tutorial
-Understanding Github
+Understanding Github hands-on.
+
